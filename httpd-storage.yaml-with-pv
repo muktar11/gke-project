@@ -2,7 +2,7 @@ apiVersion: v1
 kind: PersistentVolume
 metadata:
   name: httpd-pv
-  namespace: project1
+  namespace: devops-test
 spec:
   storageClassName: ""
   capacity:
