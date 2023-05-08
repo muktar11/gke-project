@@ -4,7 +4,7 @@ kind: Service
 
 metadata:
   name: httpd-service
-  namespace: project1
+  namespace: devops-test
 
 spec:
   type: LoadBalancer
