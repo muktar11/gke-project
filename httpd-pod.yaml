@@ -15,7 +15,7 @@ spec:
   template:
     metadata:
       name: httpd-pod
-      namespace: project1
+      namespace: devops-test
       labels:
         app: httpd-web
         location: IN
